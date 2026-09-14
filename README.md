@@ -9,7 +9,7 @@ A small, rounded assistant menu pinned to the bottom-right of your screen, toggl
 1. Install [Python 3.10+](https://python.org) if you don't have it.
 2. Open a terminal and use
    ```
-   cd C:\Users\YOURUSER\Downloads
+   cd C:\Users\YOURUSER\Downloads\Minisist
    ```
 4. Install dependencies:
    ```
