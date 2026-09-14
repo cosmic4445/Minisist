@@ -1,5 +1,5 @@
   <p align="center">
-  <img src="assets/Logo.png" width="500">     
+  <img src="assets/Logo.png" width="100">     
 </p> 
 
 A small, rounded assistant menu pinned to the bottom-right of your screen, toggled with a global hotkey (default `Alt+Z`). Slides up from the bottom, plays a mini boot animation, then fades in your apps and system shortcuts plus live Memory/CPU stats.
